@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 import "@openzeppelin/contracts/access/AccessControl.sol";
 
-contract TarpNFTUser1155Token is
+contract NFTUser1155Token is
     Context,
     ERC1155Burnable,
     ERC1155Supply,

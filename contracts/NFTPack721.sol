@@ -8,7 +8,6 @@ import "@openzeppelin/contracts/utils/Context.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/AccessControl.sol";
 
-
 contract NFT721 is
     Context,
     ERC721Enumerable,

@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/AccessControl.sol";
 
 
-contract TarpNFTUser721Token is
+contract NFTUser721Token is
     Context,
     ERC721Enumerable,
     ERC721Burnable,
